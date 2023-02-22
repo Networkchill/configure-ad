@@ -26,13 +26,13 @@
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
+<div>
 
-   <img src="https://i.imgur.com/hLmM3bO.png" style="width: 33.33%; float: left;">
+  <img src="https://i.imgur.com/hLmM3bO.png" style="width: 33.33%; float: left;">
   <img src="https://i.imgur.com/JgYYDpF.png" style="width: 33.33%; float: left;">
   <img src="https://i.imgur.com/Uyc08Cc.png" style="width: 33.33%; float: left;">
   
-</p>
+</div>
 <p>
 Setup Resources in Azure
 Create the Domain Controller VM (Windows Server 2022) 
