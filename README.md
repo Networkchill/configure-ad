@@ -34,12 +34,12 @@
   
 </div>
 <p>
-Setup Resources in Azure
-Create the Domain Controller VM (Windows Server 2022) 
-Take note of the Resource Group and Virtual Network (Vnet) that get created at this time
-Set Domain Controller’s NIC Private IP address to be static
-Create the Client VM (Windows 10). Use the same Resource Group and Vnet that was created prevoiusly.
-Ensure that both VMs are in the same Vnet (you can check the topology with Network Watcher)
+- Setup Resources in Azure
+- Create the Domain Controller VM (Windows Server 2022) 
+- Take note of the Resource Group and Virtual Network (Vnet) that get created at this time
+- Set Domain Controller’s NIC Private IP address to be static
+- Create the Client VM (Windows 10). Use the same Resource Group and Vnet that was created prevoiusly.
+- Ensure that both VMs are in the same Vnet (you can check the topology with Network Watcher)
 
 </p>
 <br />
