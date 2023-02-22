@@ -27,7 +27,11 @@
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/hLmM3bO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+   <img src="https://i.imgur.com/hLmM3bO.png" style="width: 33.33%; float: left;">
+  <img src="https://i.imgur.com/JgYYDpF.png" style="width: 33.33%; float: left;">
+  <img src="https://i.imgur.com/Uyc08Cc.png" style="width: 33.33%; float: left;">
+  
 </p>
 <p>
 Setup Resources in Azure
